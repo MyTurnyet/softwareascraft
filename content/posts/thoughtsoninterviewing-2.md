@@ -172,5 +172,5 @@ that fits the position, but the person that better the team and the company.
 
 
 [1]:{{< relref thoughtsoninterviewing-1.md>}}
-[2]:{{https://github.com/isidore}}
+[2]: https://github.com/isidore
 [3]:{{< relref sixminuteinterview.md >}}
