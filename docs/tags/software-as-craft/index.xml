@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software as Craft on Software As Craft</title>
-    <link>localhost/tags/software-as-craft/</link>
+    <link>https://softwareascraft.com/tags/software-as-craft/</link>
     <description>Recent content in Software as Craft on Software As Craft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,37 +10,37 @@
     <webMaster>paige.watson@softwareascraft.com (Paige)</webMaster>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate>
-    <atom:link href="localhost/tags/software-as-craft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://softwareascraft.com/tags/software-as-craft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on Interviewing - Part II</title>
-      <link>localhost/posts/thoughtsoninterviewing-2/</link>
+      <link>https://softwareascraft.com/posts/thoughtsoninterviewing-2/</link>
       <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
-      <guid>localhost/posts/thoughtsoninterviewing-2/</guid>
+      <guid>https://softwareascraft.com/posts/thoughtsoninterviewing-2/</guid>
       <description>In the [first part][thoughts-on-interviewing-1] of this series, I talked a little about how our industry interviews currently and some of the issues I have with the current process. In this post, I want to talk a little more about what we should be doing in interviews, and who we&amp;rsquo;re actually trying to hire.
 First, let&amp;rsquo;s talk about what we&amp;rsquo;re trying to get out of our hiring process.
 If the answer is: &amp;ldquo;A software developer&amp;rdquo; I would pose that we need to think a little deeper about what we really want out of a candidate.</description>
     </item>
     <item>
       <title>Thoughts on Interviewing - Part I</title>
-      <link>localhost/posts/thoughtsoninterviewing-1/</link>
+      <link>https://softwareascraft.com/posts/thoughtsoninterviewing-1/</link>
       <pubDate>Wed, 12 Apr 2023 07:30:35 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
-      <guid>localhost/posts/thoughtsoninterviewing-1/</guid>
+      <guid>https://softwareascraft.com/posts/thoughtsoninterviewing-1/</guid>
       <description>As a developer for over 30 years, I’ve come to realize several problems with the way we interview in the Software Development industry. Whether it’s because we don’t know how to correctly interview for a development position, or we’re not allowed to interview in the way that’s needed, it needs to change.
 As a Senior-level Code Crafter, I’m finding it frustrating to interview with (and do interviews for) companies that have processes counter-intuitive to their desired outcome of hiring a great developer.</description>
     </item>
     <item>
       <title>On Software as Craft</title>
-      <link>localhost/posts/onsoftwareascraft/</link>
+      <link>https://softwareascraft.com/posts/onsoftwareascraft/</link>
       <pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
-      <guid>localhost/posts/onsoftwareascraft/</guid>
+      <guid>https://softwareascraft.com/posts/onsoftwareascraft/</guid>
       <description>As A Craft I self-identify as a &amp;ldquo;Software Crafter&amp;rdquo;. I believe that the creation of software is a complex endeavor, more akin to an artists work, than that of a plumber, electrician or factory worker.
 Please be cognizant that I am not putting down anyone who is employed as a plumber, electrician, factory worker, or whatever. I believe that any (and all) of these jobs can be incredibly thought and labor intensive.</description>
     </item>
     <item>
       <title>Collaborative Programming... Remotely!</title>
-      <link>localhost/posts/collaborativeprogrammingremotely/</link>
+      <link>https://softwareascraft.com/posts/collaborativeprogrammingremotely/</link>
       <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
-      <guid>localhost/posts/collaborativeprogrammingremotely/</guid>
+      <guid>https://softwareascraft.com/posts/collaborativeprogrammingremotely/</guid>
       <description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work. Over time, the one list of &amp;ldquo;do&amp;rsquo;s&amp;rdquo; and &amp;ldquo;don&amp;rsquo;ts&amp;rdquo; that has made it&amp;rsquo;s way to the forefront of discussions is the list at remotemobprogramming.org, compiled by Simon Harrer, Jochen Christ, and Martin Huber.</description>
     </item>
   </channel>
