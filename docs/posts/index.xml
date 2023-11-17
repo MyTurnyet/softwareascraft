@@ -1,569 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Software As Craft</title>
-        <link>https://softwareascraft.com/posts/</link>
-        <description>Recent content in Posts on Software As Craft</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate>
-        <atom:link href="https://softwareascraft.com/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Thoughts on Interviewing - Part II</title>
-            <link>https://softwareascraft.com/posts/thoughtsoninterviewing-2/</link>
-            <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate>
-            
-            <guid>https://softwareascraft.com/posts/thoughtsoninterviewing-2/</guid>
-            <description>In the [first part][thoughts-on-interviewing-1] of this series, I talked a little about how our industry interviews currently and some of the issues I have with the current process. In this post, I want to talk a little more about what we should be doing in interviews, and who we&amp;rsquo;re actually trying to hire.
+  <channel>
+    <title>Posts on Software As Craft</title>
+    <link>localhost/posts/</link>
+    <description>Recent content in Posts on Software As Craft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>paige.watson@softwareascraft.com (Paige)</managingEditor>
+    <webMaster>paige.watson@softwareascraft.com (Paige)</webMaster>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate>
+    <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on Interviewing - Part II</title>
+      <link>localhost/posts/thoughtsoninterviewing-2/</link>
+      <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/posts/thoughtsoninterviewing-2/</guid>
+      <description>In the [first part][thoughts-on-interviewing-1] of this series, I talked a little about how our industry interviews currently and some of the issues I have with the current process. In this post, I want to talk a little more about what we should be doing in interviews, and who we&amp;rsquo;re actually trying to hire.
 First, let&amp;rsquo;s talk about what we&amp;rsquo;re trying to get out of our hiring process.
 If the answer is: &amp;ldquo;A software developer&amp;rdquo; I would pose that we need to think a little deeper about what we really want out of a candidate.</description>
-            <content type="html"><![CDATA[<p>In the [first part][thoughts-on-interviewing-1] of this series, I talked a little about how our industry interviews
-currently and some of the issues I have with the current process. In this post, I want to talk a little more about what
-we should be doing in interviews, and who we&rsquo;re actually trying to hire.</p>
-<p>First, let&rsquo;s talk about what we&rsquo;re trying to get out of our hiring process.</p>
-<p>If the answer is: &ldquo;A software developer&rdquo; I would pose that we need to think a little deeper about what we really want
-out of a candidate. While we often have ideas of what we need in terms of skill set, I don&rsquo;t think that skill set should
-be anything more than a passing concern when considering a candidate.</p>
-<p>Let&rsquo;s go a little deeper into what I just said. We often look at a candidates skill set and try and match it to what the
-team needs right now. Which is fine if we&rsquo;re trying to fill a short term position where the work only consists of a
-given skill set. I would put forth the idea that most teams are not looking for this (nor should they be). We should be
-looking for a new team member. Someone that will bring experience, ideas, learning, growth, knowledge and learning to
-the team (and the company). We want critical thinkers, and candidates that care about the quality of our code. We want
-people that will have ideas about process, and how to make software in a more efficient, extensible, and sustainable
-way.</p>
-<p>Using skill set will not get you this person. Code challenges will not tell you much about a candidates ability. The
-only real way to know if we are interviewing and hiring the correct person is to work with the candidate. We need to
-learn whether a candidate can work along side of other members of the team.</p>
-<p>Can they communicate effectively?
-Can the candidate use our tools (or learn quickly)?
-Will they raise the level of the team?
-Can they take (and give) instruction?
-Will they bring additional culture to the team?
-All of these are important and relevant to making sure we hire a great candidate.</p>
-<p>Still, a person applying for a job as a software developer needs to know how to develop software. So let&rsquo;s start there:</p>
-<h2 id="the-six-minute-interview">The Six Minute Interview</h2>
-<p><a href="https://github.com/isidore">Llewellyn Falco</a> developed a challenge for gaining knowledge of a candidates ability in a
-fairly quick way. He calls it &lsquo;[The Six Minute Interview][six-minute-interview]&rsquo;. I have written several versions of this challenge and added
-them to my personal GitHub repository.</p>
-<p>This challenge works best online, and usually can be set-up as a fifteen minute screen. The main idea is that after six
-minutes, you can get a general overview of a person&rsquo;s ability, and most importantly, if you want to continue to see them
-code more. After six minutes, if they aren&rsquo;t the right candidate, you can say &ldquo;thank you&rdquo; and hang up. This gives you a
-simple way to finish a screen without crushing the hopes of a candidate. If you want to see more, you can ask them to
-continue for another 30-60 minutes with the code that they&rsquo;ve started, or just pass them onto the next step of the
-process.</p>
-<h2 id="code-challenges">Code Challenges</h2>
-<p>You&rsquo;ll remember that in the first part of this series, I talked about how I think white-boarding is not the answer.
-Along with this, I believe that static &lsquo;code challenges&rsquo; give us the same feedback as white-boarding. The candidate has
-seen the problem before, or if not, they&rsquo;ve looked it up online. Or, maybe they&rsquo;ve actually solved it themselves. How do
-we know?</p>
-<p>I think the answer is to give them a challenge, but instead of asking them to return the finished product as a single
-deliverable, we ask them to provide a link to a repository. The challenge we give should be a longer challenge, with
-more than one component (ie: middle tier &amp; UI, tests, etc). Not just a single problem, but an actual project. This
-doesn&rsquo;t mean it has to be huge. Just large enough to see how a candidate handle different areas of development.</p>
-<h3 id="untimed">Untimed</h3>
-<p>I heard people say &ldquo;Timed challenges show us how a candidate works under pressure&rdquo;. Maybe this is true, but does it show
-us the real ability of a candidate? I&rsquo;ve been on the candidate side of the a timed challenge. We all have. Did you do
-your best work? Did you do it correctly and take all the steps necessary to ensure you wrote quality code and the best (
-as you know it) implementation? I didn&rsquo;t. I worked feverishly to just get it done. It was crap code and probably had
-several bugs. Is this what we&rsquo;re looking for in a candidate? Someone who, when faced with a time deadline will write
-crap code to just &lsquo;get it done&rsquo;? I hope not. This is not the kind of company I want to work for, nor the type of
-developer I want to work with.</p>
-<p>Once I recognized that I was just writing code to get it done, I started practicing quality code practices for code
-challenges. I often wouldn&rsquo;t finish, but I would be sure of the quality of the code I did write. Often, not finishing
-would cause me to not move forward with the interview process. Fine. In the end I realized, I don&rsquo;t want to work a
-company that values getting it done quickly over getting it done correctly.</p>
-<p>The crux of this idea is: We should not be giving timed challenges. Candidates should be asked to complete a project
-using their best practices to ensure it is maintainable, extensible, bug-free, and finished.</p>
-<h3 id="use-a-repository">Use a repository</h3>
-<p>Asking them to provide a link to the code repository will enable us to view the process of software development from the
-candidates point of view. We can look at commit history, and the evolution of the project. We can see how often they
-committed and what changes came when. Did the candidate work on a branch, or master? Did they make a bunch of small
-commits, or a few larger ones? Did they add effective commit messages?</p>
-<p>We can see how they decided to structure the project. Is all of the code in a single project? Are there
-multiple projects, and if so, are they effectively laid out in the hierarchy? Are tests in the same project or a
-different one? Does the project structure match what would be considered appropriate for the language that they are
-using?</p>
-<p>Once a candidate is finished, they should provide us &lsquo;contributor&rsquo; access to their repository allowing us to see all
-commits and merges.</p>
-<h3 id="feedback">Feedback</h3>
-<p>Once the challenge is submitted to us, we should be able to provide constructive feedback to candidates on their code
-challenge. This feedback can ask questions about implementation and practices, as well as include recommendations for
-creating a better solution. Not only does this provide the candidate with insight into our company development ideals,
-it allows them to learn and grow. A candidate should be able to defend their position on questions such as: &ldquo;Why did you
-implement this library?&rdquo;, &ldquo;Was this the best structure for the solution?&rdquo;, and &ldquo;What is the benefit of doing it this
-way?&rdquo;. I would rather see a candidate defend their position, even if I think it&rsquo;s incorrect. The candidate should also
-be able to take the feedback and learn from it. I&rsquo;m looking for an ability to incorporate feedback that the candidate
-thinks is a positive improvement to their solution.</p>
-<h2 id="in-person-interview">In Person Interview</h2>
-<p>Once a candidate is moved to the &ldquo;in-person&rdquo; level of the process, technical skills should known and no longer a focus
-of the interviewer. The candidate has demonstrated technical aptitude and now we are looking at them to see if they will
-be a positive addition to the team. This in-person time should not be wasted on white boarding or knowledge testing, but
-should instead be used to make sure that both the candidate and the team are comfortable working together. The best way
-to do this is to put the candidate into a scenario that has them work as they would if they were hired.</p>
-<h3 id="code-together">Code Together</h3>
-<p>Be upfront and straight about expectations. If you expect the candidate to follow certain practices, like
-paired-programming, or TDD, have them do it with the team. If possible, have the candidate work on production code and
-be on a commit. This is, again, a time to see how well they receive and incorporate feedback. Do they ask the right
-questions of the team? Many candidates are reticent to ask &ldquo;Why&rdquo; or suggest alternatives to what they&rsquo;re told during an
-interview. Do they know how to write in a Test-Driven manor? Can they effectively pair? Do they want to do it all
-themselves, or are they willing to work collaboratively?</p>
-<h3 id="personality-fit">Personality Fit</h3>
-<p>One of the most important things I want to see in a candidate is the ability to learn from mistakes. Take time to ask
-the candidate about mistakes they&rsquo;ve made (not just in writing software), and what they&rsquo;ve learned from it. A candidate
-that can&rsquo;t (or won&rsquo;t) tell you about their mistakes during an interview is a red flag for me. Ask about a time when they
-stood up for what they believed in, even if the outcome wasn&rsquo;t to their liking. Take time to find out about the
-candidate as a person and think about whether you&rsquo;d want to sit with this person for the next 6 months every day. While
-you may not have to, it will give you a good idea of whether you feel comfortable with this person as a co-worker. Try
-not to use the phrase &ldquo;Tell me about a time when&hellip;&rdquo; Most candidates have a ready made example that they&rsquo;ve rehearsed
-for this question. You may still get the pre-formatted answer if you ask a question in another way, but it may be enough
-to nudge the candidate toward a more genuine reply.</p>
-<h3 id="dont-make-it-a-test-of-mental-toughness">Don&rsquo;t make it a test of mental toughness</h3>
-<p>Many people I&rsquo;ve met talk about an interview as a time to really stress a candidate. This will &ldquo;show how they work under
-pressure&rdquo;. This is a horrible idea. Why do we feel this is necessary? If your team is under so much pressure that you
-feel the need to test the candidate on how they react, you need to change the way your team works. As a candidate, I
-would wholly reject any job that I felt was at a company that was interviewing me this way. Why would I want to work at
-a company where conditions like this were &rsquo;normal&rsquo;?</p>
-<h2 id="judgement-day">Judgement Day</h2>
-<p>Finally, at some point (usually soon after the in person interview) a judgement has to be made. This is (obviously) the
-most important decision in the process.</p>
-<p>If you cannot find a good reason to say &ldquo;Yes&rdquo;, the answer should be &ldquo;No!&rdquo;</p>
-<p>Let me state that again. If you cannot give a good reason why you should hire a candidate, the answer should be to
-pass. &ldquo;They could work out&hellip;&rdquo; is not a good reason. &ldquo;They have the skills we want&hellip;&rdquo; is not a good reason. &ldquo;They seem
-really excited about the job&rdquo; is not a good reason. Too often we attempt to fill a position with a body just so we can
-get someone to do they work. This will keep a company from moving forward and teams from growing to their full
-potential.</p>
-<p>Whether the answer is a &ldquo;yes&rdquo; or a &ldquo;no&rdquo;, give the candidate as much honest and constructive feedback as you can in the
-shortest time possible. A person will never get better or change if they don&rsquo;t hear this feedback.</p>
-<p>It all comes down to hiring and ensuring we have a good fit for the team and the company. Hiring for software
-development shouldn&rsquo;t be a body in seat process, nor should it be a search for &ldquo;good enough&rdquo;. These are my thoughts on
-the process and I would love to hear your feedback. Our industry is still new enough and our processes are ever
-changing, and because of this, we need to continually update and refine our hiring processes, not to find the person
-that fits the position, but the person that better the team and the company.</p>
-<p>[thoughts-on-interviewing-1]:{% post_url 2023-04-12-thoughts-on-interviewing-part-1 %}</p>
-<p>[six-minute-interview]:{% post_url 2023-03-21-six-minute-interview %}</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Thoughts on Interviewing - Part I</title>
-            <link>https://softwareascraft.com/posts/thoughtsoninterviewing-1/</link>
-            <pubDate>Wed, 12 Apr 2023 07:30:35 -0900</pubDate>
-            
-            <guid>https://softwareascraft.com/posts/thoughtsoninterviewing-1/</guid>
-            <description>As a developer for over 30 years, I’ve come to realize several problems with the way we interview in the Software Development industry. Whether it’s because we don’t know how to correctly interview for a development position, or we’re not allowed to interview in the way that’s needed, it needs to change.
+    </item>
+    <item>
+      <title>Thoughts on Interviewing - Part I</title>
+      <link>localhost/posts/thoughtsoninterviewing-1/</link>
+      <pubDate>Wed, 12 Apr 2023 07:30:35 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/posts/thoughtsoninterviewing-1/</guid>
+      <description>As a developer for over 30 years, I’ve come to realize several problems with the way we interview in the Software Development industry. Whether it’s because we don’t know how to correctly interview for a development position, or we’re not allowed to interview in the way that’s needed, it needs to change.
 As a Senior-level Code Crafter, I’m finding it frustrating to interview with (and do interviews for) companies that have processes counter-intuitive to their desired outcome of hiring a great developer.</description>
-            <content type="html"><![CDATA[<p>As a developer for over 30 years, I’ve come to realize several problems with the way we interview in the Software
-Development industry. Whether it’s because we don’t know how to correctly interview for a development position, or we’re
-not allowed to interview in the way that’s needed, it needs to change.</p>
-<p>As a Senior-level Code Crafter, I’m finding it frustrating to interview with (and do interviews for) companies that have
-processes counter-intuitive to their desired outcome of hiring a great developer.</p>
-<h2 id="great-developers">Great Developers</h2>
-<p>Let&rsquo;s start by defining what constitutes a great developer. A “great developer” is a developer that can do several
-things (often at once).</p>
-<p>They can:</p>
-<ul>
-<li>Write well-crafted code using Quality Code practices.</li>
-<li>Communicate well with technically minded and less-technically minded people equally.</li>
-<li>Teach the rest of the team and learn from the rest of the team.</li>
-<li>Ask questions, and add to the understanding of the team when it comes to design, implementation and all other steps in
-the SDLC</li>
-<li>See areas for ingenuity and creativity in the code and processes that the team uses.</li>
-</ul>
-<p>Did I miss anything? Probably, but this is a good starting point to talk about how we can better interview and hire
-developers.</p>
-<h2 id="whats-wrong-with-what-were-doing-now">What’s wrong with what we’re doing now?</h2>
-<p>Here’s an example of the what I see with a majority of companies trying to hire a senior level developer.</p>
-<p>The cycle goes like this:</p>
-<h4 id="gate-keepers">Gate Keepers</h4>
-<p>Resume’s get submitted to HR recruiting manager.</p>
-<p>This person may know a little about what’s actually needed for the position, or may just be checking off boxes.
-I’m not going to stick on this step, as often it’s easy to pass through, either by listing correct words on the resume,
-or getting a referral to a position from an insider.</p>
-<h4 id="quick-chat-with-the-hiring-manager">“Quick Chat” with the hiring manager</h4>
-<p>Again, a simple check to make sure that the applicant is personable and has an idea of how to do the work of the team.</p>
-<h4 id="initial-contact">Initial Contact</h4>
-<p><em>(optional)</em> The applicant gets a timed code challenge using an online IDE like HackerRank<br>
-An hour-long “Phone Interview” with a Senior or Lead Developer/Architect/Engineer.<br>
-This is the “tell me about something you did that was great” question time.</p>
-<p>Not a great step in the process. Most often the interviewer is looking for keywords that fit the current task for the
-position they are trying to fill. This is also the time for the applicant to write code in an online IDE, basically
-“online white-boarding”</p>
-<h4 id="white-boarding">White Boarding</h4>
-<p>Let&rsquo;s stop here a moment and talk about “<em>online white-boarding</em>”, whether in the guise of a timed challenge or as we
-often hear:</p>
-<blockquote>
-<p>“We want to know how you think.”</p>
-</blockquote>
-<p>White-boarding (online or in person) is <strong>not a way to learn anything about a programmer’s ability or knowledge</strong>.</p>
-<p>Actually, I take that back. White-boarding will tell you whether the programmer has seen/solved the problem you’re
-asking before.</p>
-<p>White-boarding is really just a way to say to a candidate:</p>
-<blockquote>
-<p>“We want to see if you can come up with the answer that we came up with.”</p>
-</blockquote>
-<p>If it is really about understanding how a candidate solves a problem, have the candidate develop in the IDE that you use
-every day for your regular work.</p>
-<p><strong>No one that I know develops on a whiteboard.</strong></p>
-<h4 id="the-loop">The Loop</h4>
-<p>“The Loop” has become an industry standard for the interview process, and it makes sense. This is where a candidate
-meets with three or four different interviewers over a couple of hours. This process lets the company schedule a time
-that works for all the interviewers, and the candidate can dedicate a time to focusing on the company.</p>
-<p>The problem with this practice comes more in the individual interview times</p>
-<ul>
-<li>First, the candidate is usually put into a room, where they will spend the day.</li>
-<li>Second (and more egregious), the interviews are often conducted by groups of people who may or may not be part of the
-team the candidate will be on.</li>
-<li>Third, the candidate usually has another round of white-boarding (and often white-boarding with each group of
-interviewers). <a href="#white-boarding">See white-boarding above…</a></li>
-</ul>
-<p>This is usually the last step before a decision is made to hire or not.
-Which is good as it means the candidate doesn’t have to wait long for an answer,
-but in most cases, the company still hasn’t seen the candidate write code with the team.</p>
-<h4 id="no-feedback">No Feedback</h4>
-<p>Finally, most companies nowadays will not give feedback on how a candidate did in an interview.
-This is a mainly fear-based decision from HR, so that the company doesn’t expose itself to a possible lawsuit or legal
-action.</p>
-<p>How do we except our community to grow without feedback?<br>
-Many candidates I&rsquo;ve interviewed but rejected were so close, that with a little feedback and time, they could have come
-back and been a good addition to our (or another) company.</p>
-<h2 id="wrapping-up">Wrapping up</h2>
-<p>Why is this the way that most interviews are done? My guess is that it&rsquo;s a mixture of &ldquo;Because we&rsquo;ve always done it this
-way&rdquo; and &ldquo;Because we don&rsquo;t know any other way&rdquo;, or &ldquo;Because it works for us&rdquo;.</p>
-<p>But is this what we really want as a software development team?</p>
-<p>Does this get us a great team member, or does it get us the person that fits a position?</p>
-<p>Interviews shouldn&rsquo;t be seen as a way to measure the knowledge of a candidate, but more as a way to gauge the fit of a
-candidate into our organization.</p>
-<p>Lets talk about a better way to do this in [part II][thoughts-on-interviewing-2]&hellip;</p>
-<p>[thoughts-on-interviewing-2]:{% post_url 2023-04-13-thoughts-on-interviewing-part-2 %}</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Creating a Culture of Learning</title>
-            <link>https://softwareascraft.com/posts/creatingacultureoflearning/</link>
-            <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
-            
-            <guid>https://softwareascraft.com/posts/creatingacultureoflearning/</guid>
-            <description>Stop me if you’ve heard this before:
+    </item>
+    <item>
+      <title>Creating a Culture of Learning</title>
+      <link>localhost/posts/creatingacultureoflearning/</link>
+      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/posts/creatingacultureoflearning/</guid>
+      <description>Stop me if you’ve heard this before:
 CFO says: &amp;ldquo;What if we pay to train our employees, and they leave the company?&amp;rdquo;
 CTO says: ….
 If you are in a “management” position (or if you aren’t, imagine what your manager would say), what percentage of the work week would you like your team to be learning and growing at their job?
 This is how I start out my talk on creating a learning culture.</description>
-            <content type="html"><![CDATA[<p>Stop me if you’ve heard this before:</p>
-<blockquote>
-<p>CFO says: &ldquo;What if we pay to train our employees, and they leave the company?&rdquo;</p>
-<p>CTO says: ….</p>
-</blockquote>
-<p>If you are in a “management” position (or if you aren’t, imagine what your manager would say), what percentage of the
-work week would you like your team to be learning and growing at their job?</p>
-<p>This is how I start out my talk on creating a learning culture. I’ve heard ranges from 5%-10% and even 20%. I
-immediately ask people to do the math.</p>
-<p>5% = 2 hours a week. 10% = 4 hours a week.</p>
-<p>How much time does your team actually spend? In a majority of cases, it’s 0% (or slightly less). Why is that? Is it
-because the team members don’t want to take time to learn? Maybe. More likely is that they feel the pressure to spend
-all working hours (and often a few more) focused on getting the current project out the door.</p>
-<h2 id="where-to-start">Where to Start</h2>
-<p>One of the easiest ways a company can create an environment where its workers want to come to work is to promote
-learning as a cultural value.</p>
-<p>Don’t just say it’s important. Don’t just give them a “book budget”.</p>
-<p>Set aside actual hours during the work week that teams are expected to spend learning as a group.</p>
-<p>The benefits of learning as a group can bring about major positive changes, not just for the employees, but the team and
-the company as well.</p>
-<p>These benefits include:</p>
-<ul>
-<li>Personal growth of the team members</li>
-<li>Greater team cohesion</li>
-<li>Increased team ownership of ideas</li>
-<li>Emergence aka “Rising Tide Effect”</li>
-<li>Psychological Safety or It’s okay to say ‘I don’t know’</li>
-<li>Enjoyment of work</li>
-<li>Increased Productivity</li>
-</ul>
-<h2 id="a-real-world-example">A Real World Example</h2>
-<p>At a large health insurance company, we had a team that had a strong culture of learning. We decided early on that we
-wanted to take time to practice and get better at development by doing a Code Kata once a week. We set aside the time
-and asked the whole team to join us. The team decided on a format of using FizzBuzz to practice. We used Test Driven
-Development (TDD) and Pair-Programming and worked to focus on one theme a week.</p>
-<p>The outcomes for the team were many-fold. We became better at writing software. We learned to communicate and express
-our ideas with a common understanding. Without planning it, code standards and conventions organically spread and became
-agreed upon throughout the team, and were adhered to in our production work.</p>
-<p>Other teams took notice of our learning practice and we invited them to join us. This lead to the creation of a class
-that we could use to teach other teams to use TDD, Paired Programming and Code Kata. Many of the same benefits were
-realized by these other teams. Other teams would join us for our Code Kata, and the combined teams would then learn from
-each other.</p>
-<p>And then, one day we decided to try another experiment. We decided to go beyond Code Katas. We had always had some
-personal learning time, and we decided to try learning together.</p>
-<p>We set up a learning marketplace, much like an Open Space marketplace, and allowed team members to put ideas into the
-marketplace. The idea didn’t have to be directly connected to production work.</p>
-<p>Some of the learning ideas we had were:</p>
-<ul>
-<li>Learn the basics of another language (Go, Elixir, F#, etc.)</li>
-<li>What is a micro-service?</li>
-<li>Can we create a micro-service in Azure using Azure Function apps</li>
-<li>How do we create a dashboard for our web services without having to log-in to Azure</li>
-<li>What is Mob Programming?</li>
-<li>How do you create a Siri/Cortana/Alexa skill and what could we use it for?</li>
-</ul>
-<p>Once we had a list of ideas, the rest of the team put their initials next to what they were interested in learning. The
-team then formed groups and got together to learn what they had chosen. At the end of the learning time, everyone
-returned to the marketplace board, and each team would report the outcome of their learning time. This learning time not
-only allowed us to gain knowledge, but it also allowed us to innovate. Out of this learning time, the company gained
-numerous ideas that went on to become full projects.</p>
-<p>We expanded a team to create a full micro-service architecture for our data service.</p>
-<p>We created dashboards for visibility and velocity gain.</p>
-<p>We started Mob Programming on production code.</p>
-<p>And most of all, we enjoyed working at a company where we felt that our value to the company was recognized and nurtured
-as we learned.</p>
-<p>Where do you start?
-Sometimes the hardest part of creating a culture of learning is: where to start?. Here are two ideas that have worked
-for other companies.</p>
-<h3 id="code-katas">Code Katas</h3>
-<p>Code Katas are practices of writing code to focus on a single area of improvement. They are simple problems that can be
-repeated over and over with the focus not on solving the problem, but on writing well-crafted code. Kata sessions
-usually run about an hour. Bring the whole team together to discuss the focal point of the Kata practice during the
-session. Have a single focus or theme for each practice session.</p>
-<p>I suggest starting by picking one of the four rules of simple design:</p>
-<ul>
-<li>Passes the tests</li>
-<li>Reveals intention</li>
-<li>No duplication</li>
-<li>Fewest elements</li>
-</ul>
-<p>Get out of the need to solve the problem. Focus on the intended learning for the Kata session. Remember to save some
-time to talk about learning at the end of the Kata practice time.</p>
-<p>Experiments
-The simplest way to start learning as a team is to try an experiment. Gather the team members that want to take the time
-to learn, and come up with an experiment around learning.</p>
-<p>To be a valid learning experiment, there needs to be a start date and an end date. Time-boxing the experiment will allow
-you to evaluate how it’s going periodically so that you can choose to continue, change or end the experiment.</p>
-<p>Experiments are a great way to get buy-in from management, as they are short and can be evaluated for value at regular
-intervals. At the end of the allotted time, remember to have a retrospective and discuss what you learned, and whether
-the experiment was a success, and whether to continue it, re-frame it, or stop it.</p>
-<h3 id="learn-as-a-team">Learn As A Team</h3>
-<p>No matter how you take time to learn, take time to learn as a team. The benefits you and the rest of the team will
-recognize will be significant and long-lasting.</p>
-<p>And stop if you’ve heard this before:</p>
-<blockquote>
-<p>CFO says: &ldquo;What if we pay to train our employees, and they leave the company?&rdquo;</p>
-<p>CTO says: &ldquo;What if we don’t, and they stay?&rdquo;</p>
-</blockquote>
-]]></content>
-        </item>
-        
-        <item>
-            <title>On Software as Craft</title>
-            <link>https://softwareascraft.com/posts/onsoftwareascraft/</link>
-            <pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate>
-            
-            <guid>https://softwareascraft.com/posts/onsoftwareascraft/</guid>
-            <description>As A Craft I self-identify as a &amp;ldquo;Software Crafter&amp;rdquo;. I believe that the creation of software is a complex endeavor, more akin to an artists work, than that of a plumber, electrician or factory worker.
+    </item>
+    <item>
+      <title>On Software as Craft</title>
+      <link>localhost/posts/onsoftwareascraft/</link>
+      <pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/posts/onsoftwareascraft/</guid>
+      <description>As A Craft I self-identify as a &amp;ldquo;Software Crafter&amp;rdquo;. I believe that the creation of software is a complex endeavor, more akin to an artists work, than that of a plumber, electrician or factory worker.
 Please be cognizant that I am not putting down anyone who is employed as a plumber, electrician, factory worker, or whatever. I believe that any (and all) of these jobs can be incredibly thought and labor intensive.</description>
-            <content type="html"><![CDATA[<h2 id="as-a-craft">As A Craft</h2>
-<p>I self-identify as a  <strong>&ldquo;Software Crafter&rdquo;</strong>. I believe that the  <strong>creation of software is a complex endeavor</strong>, more
-akin to an artists work, than that of a plumber, electrician or factory worker.</p>
-<p>Please be cognizant that I am not putting down anyone who is employed as a plumber, electrician, factory worker, or
-whatever. I believe that any (and all) of these jobs can be incredibly thought and labor intensive. But, they are not
-complex endeavors. They are complicated endeavors. Learning how to wire an airplane engine, or plumb a house takes many
-years of learning and an understanding of many complicated processes. All have products that are tangible and if
-reproduced, could (and often) would be almost exact the same product. This is a good thing and what is expected in these
-industries.</p>
-<p>This is not so with software development, at least, not with quality crafted software.</p>
-<h3 id="quality-code">Quality Code</h3>
-<p>Creating quality software is about doing the right thing at the right time to make software that runs correctly,
-efficiently, and is bug free. It is extensible, re-usable, easily to refactor, and gives the developer provable feedback
-that it works as expected. For me, this practice currently includes many of the processes from
-the  <a href="https://en.wikipedia.org/wiki/Extreme_programming">Extreme Programming framework</a>. Processes like Test-Driven
-Development, Paired-Programming, Fast-feedback through automated tests, and close interaction with stakeholders and
-users.</p>
-<p>As my friend and fellow crafter,  <a href="https://quinngil.com/">Quinn Gil</a>  puts it in his
-post &ldquo;<a href="https://quinngil.com/2018/11/11/professional-software-engineer/">As a Software Engineer</a>&rdquo; :</p>
-<blockquote>
-<p>I look at my job as a Software Engineer to maintain and increase the value of the digital asset I&rsquo;m responsible for.</p>
-</blockquote>
-<p>This responsibility must include a view toward continually moving all code (written or not) in a direction of quality.
-This means that refactoring and unit/integration/functional tests are just as important as writing &lsquo;production&rsquo; code. A
-project or story  <strong>cannot</strong>  be considered &lsquo;done&rsquo; unless it has tests, and time has been taken to ensure that it is in
-a quality state.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Collaborative Programming... Remotely!</title>
-            <link>https://softwareascraft.com/posts/collaborativeprogrammingremotely/</link>
-            <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate>
-            
-            <guid>https://softwareascraft.com/posts/collaborativeprogrammingremotely/</guid>
-            <description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work. Over time, the one list of &amp;ldquo;do&amp;rsquo;s&amp;rdquo; and &amp;ldquo;don&amp;rsquo;ts&amp;rdquo; that has made it&amp;rsquo;s way to the forefront of discussions is the list at remotemobprogramming.org, compiled by Simon Harrer, Jochen Christ, and Martin Huber.</description>
-            <content type="html"><![CDATA[<p>One of the most active topics at meet-ups and in online discussion groups in the last few months centers
-around &ldquo;what works&rdquo; and &ldquo;what doesn&rsquo;t work&rdquo; when collaborative programming in our new era of all remote work. Over time,
-the one list of &ldquo;do&rsquo;s&rdquo; and &ldquo;don&rsquo;ts&rdquo; that has made it&rsquo;s way to the forefront of discussions is the list at
-<a href="https://remotemobprogramming.org">remotemobprogramming.org</a>, compiled by Simon Harrer, Jochen Christ, and Martin Huber.</p>
-<p>I&rsquo;m going to go through their list and give a little commentary of my own. Not all of their ideas translate to the way
-we work at all companies, but most can be applied even in a modified fashion to help us work better remotely.</p>
-<p>So, let&rsquo;s jump in:</p>
-<h2 id="everyone-remote">Everyone Remote</h2>
-<p>While this doesn&rsquo;t directly apply to us all (yet), teams need to be 100% in the office, or 100% remote. Anything else
-and no matter how you try to maintain open communication, there will be information asymmetry. One part of the team (
-<em>usually the part that is in the office</em>) will have access to information that is not fully disseminated to the remote
-members. This is why it&rsquo;s easy to feel disconnected or &lsquo;alone&rsquo; when working remotely. When everyone&rsquo;s remote, all
-information should be accessible (and optimally, shared face-to-face) to all team members.</p>
-<h2 id="camera-on">Camera on!</h2>
-<p>If you want the team to work collaboratively, you need to provide a collaborative environment. This means that we can
-see and hear each other member of the team at all times. It takes a little getting used to at first but works best if
-you have multiple monitors set up, so you can keep the video window small and off to the side, but still on the main
-screen. The main idea is that you can see the other teammates as you are working collaboratively. Microphones should be
-muted if you have background noise that would be distracting, but should generally be kept on. On my last team, this was
-immensely helpful. Not only did it allow the developers to continue to collaborate in real-time, it also allowed
-managers and PO&rsquo;s to &ldquo;drop-in&rdquo; with questions and issues, instead of waiting for email or MSTeams replies. This makes
-communication faster and more effective.</p>
-<h2 id="small-team">Small Team</h2>
-<p>I don&rsquo;t have to say much about this, as we already have small teams where I work. I believe they can be too small. The
-smallest team size for teams that wish to work collaboratively should be four people. In a collaborative environment,
-the smallest size of a working unit is a pair. There are times when more than one task needs to be completed at once and
-three people do not split into pairs very easily. We are not able to maintain a collaborative practice if we can&rsquo;t
-maintain a minimum collaborative working unit size for all of our tasks.</p>
-<h2 id="same-work-hours">Same Work Hours</h2>
-<p>This is <strong>really important</strong> to working collaboratively. Teams or specifically working groups (pairs or mobs), should
-maintain the same working hours. This doesn&rsquo;t mean that you have to set a time frame in stone. It means that all the
-people doing the work need to be online together for the time the work is being done. If you and I are pairing, and I
-have a dentist appointment tomorrow, there&rsquo;s no reason we can&rsquo;t set working hours around that appointment.</p>
-<p>Working groups should also agree on breaks and lunchtimes. You don&rsquo;t have to stay with your group, just have an
-agreed-upon return time and be ready to resume working at that time.</p>
-<h2 id="typist-and-guides">Typist and Guides</h2>
-<p>For a long time, I&rsquo;ve called this &ldquo;Driver/Navigator&rdquo;. The book &ldquo;Code with the Wisdom of the Crowd by Mark Pearl&rdquo; calls
-the role at the keyboard &ldquo;Typist&rdquo;. I like this better and am going to use this nomenclature going forward. <a href="https://www.linkedin.com/in/llewellynfalco">Llewelyn
-Falco</a> describes what he calls &ldquo;Strong-style Pairing&rdquo; by saying:</p>
-<blockquote>
-<p>&ldquo;For an idea to go from your head into the computer it MUST go through someone else&rsquo;s hands&rdquo;.</p>
-</blockquote>
-<p>The typist is just that: The person that enters the code into the computer. Everyone else guides the typist. I have
-written a blog post about the Driver/Navigator process.</p>
-<h2 id="screen-sharing">Screen Sharing</h2>
-<p>Having tried several ways of pairing remotely, I agree with the idea that screen sharing is the best way that we
-currently can collaborate. I&rsquo;ve said it before: MSTeams is a presentation tool, not a collaboration tool. This helps to
-enforce the Strong-type pairing as it is hard to share control of an IDE in MSTeams. It also allows us all to use to
-customize our IDE to be more productive.</p>
-<h2 id="10-minute-intervals">10 Minute Intervals</h2>
-<p>The <a href="https://remotemobprogramming.org">remotemobprogramming.org</a> team uses 10-minute intervals for their rotations. The rotate the typist role every 10
-minutes to &ldquo;keep everyone concentrated and every opinion in the mix&rdquo;. I have tried different times, from 15 minutes to
-as much as 30 minutes a rotation. I think this is something that the working group needs to discover for themselves.
-Usually, a pairing rotation can be a little longer than a mobbing rotation.</p>
-<p>The best way to decide this is to actually experiment with different times. Try 10 minutes, then after a couple of
-rotations, take a few minutes to discuss whether lengthen (or shorten!) the time frame. Use a timer that everyone can
-see. I like the Focus app (for a Mac), but I have also used several others like Micheal Vilar&rsquo;s Timer-app, and even the
-<a href="https://mob.sh">mob.sh</a> app has a built-in timer.</p>
-<p>On previous teams, we would start with a longer time (25-30 minutes) and notice when one of the work group members
-started to lose focus. This was often something as simple as glancing at their phone or looking around the room. We
-would write the elapsed time on the window, and after several rotations, we would average the times and start again.
-This would create a custom working rotation that was effective and productive.</p>
-<h2 id="git-handover">Git Handover</h2>
-<p>One of the most process-intensive aspects of remote collaborative work is the hand-over of work. When the rotation
-happens, getting the code onto another person&rsquo;s computer can be confusing and frustrating. The easiest solution to this
-is to share a screen and give control to the current typist. This poses several issues that could slow down the
-work-group. Things like lag time, differences in IDE, and computer setup can make the team less productive. The tool
-that the <a href="https://remotemobprogramming.org">remotemobprogramming.org</a> group recommends (which was created by them) is the &ldquo;<a href="https://mob.sh">mob.sh</a>&rdquo; app written in GO. I would
-really recommend that you give this a try as it works quite well and allows each person to work on their machine when
-it&rsquo;s their turn to be the typist.</p>
-<h2 id="group-decisions">Group Decisions</h2>
-<p>One of the most important and positive things to come from collaborative work is Collaborative Decision-Making. Group
-decisions are superior to individual decisions. Everyone on the team has the ability to contribute, discuss, learn, and
-contribute. If we do not make Group Decision Making part of our collaboration work, it&rsquo;s not really a collaboration. We
-shouldn&rsquo;t have one team member responsible for architecture and process decisions.</p>
-<p>I&rsquo;d love to hear your thoughts on this and am always open to discussion about how to continually make our processes more
-effective.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>The Six-Minute Interview</title>
-            <link>https://softwareascraft.com/posts/sixminuteinterview/</link>
-            <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate>
-            
-            <guid>https://softwareascraft.com/posts/sixminuteinterview/</guid>
-            <description>First, the &amp;ldquo;Why&amp;rdquo; This interview challenge is based on the six minute interview created by Llewellyn Falco.
+    </item>
+    <item>
+      <title>Collaborative Programming... Remotely!</title>
+      <link>localhost/posts/collaborativeprogrammingremotely/</link>
+      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/posts/collaborativeprogrammingremotely/</guid>
+      <description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work. Over time, the one list of &amp;ldquo;do&amp;rsquo;s&amp;rdquo; and &amp;ldquo;don&amp;rsquo;ts&amp;rdquo; that has made it&amp;rsquo;s way to the forefront of discussions is the list at remotemobprogramming.org, compiled by Simon Harrer, Jochen Christ, and Martin Huber.</description>
+    </item>
+    <item>
+      <title>The Six-Minute Interview</title>
+      <link>localhost/posts/sixminuteinterview/</link>
+      <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/posts/sixminuteinterview/</guid>
+      <description>First, the &amp;ldquo;Why&amp;rdquo; This interview challenge is based on the six minute interview created by Llewellyn Falco.
 The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.
 After 6 minutes, you should be able to answer several questions, with the most important being:
 Do I want to see more from this candidate?</description>
-            <content type="html"><![CDATA[<h2 id="first-the-why">First, the &ldquo;Why&rdquo;</h2>
-<p>This interview challenge is based on the six minute interview created by <a href="https://github.com/isidore">Llewellyn Falco</a>.</p>
-<p>The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.</p>
-<p>After 6 minutes, you should be able to answer several questions, with the most important being:</p>
-<blockquote>
-<p>Do I want to see more from this candidate?</p>
-</blockquote>
-<p>This challenge works best as an online screen, because it is meant to be short and give you lots of information. You should be able to make a decision about whether to move forward (and see the candidate code for more time) fairly quickly (say, 6 minutes…)</p>
-<p>If you schedule the phone screen for a short time, maybe 15 minutes, you can get basic information from the candidate and then run them through this challenge. If they fair well, ask them if they can continue for another 45 minutes and make this a full hour interview.</p>
-<p>If they fair badly, you can cut the interview short without sending a huge let down to the candidate.</p>
-<h2 id="next-the-how">Next, the how…</h2>
-<p>This is a quick test and, for a person with a development background, should be pretty straightforward. However, there are instructions that should be read (or given) to the candidate.</p>
-<p>The most important point is to assure them that <strong>they will not be judged on whether they finish</strong> the problem.</p>
-<p>Make sure the candidate is at ease with this. This is much more about the process than the outcome.</p>
-<p>Then, read them this script:</p>
-<blockquote>
-<p>This is a six minute code challenge.<br>
-You will not be judged on whether you finish the problem,<br>
-so please take your time and work through it as you would without a time constraint.</p>
-<p>The object of this challenge is to make all the tests pass.<br>
-You will not finish this challenge. That is okay.</p>
-<p>Please talk aloud about what your thinking as you go through the challenge.<br>
-You may ask any questions.I may or may not answer them.</p>
-<p>I may give you hints and help throughout the challenge.<br>
-That doesn’t mean you are doing badly, it means I want to emphasize or help you along.</p>
-<p>At the end of six minutes, please stop typing where you are.</p>
-</blockquote>
-<p>Then after the challenge, you may engage a discussion if you think it would be beneficial to you or the candidate.</p>
-<h2 id="and-finally-the-what">And finally, the what…</h2>
-<p>Here are a list of things to look for when administering this during an interview:</p>
-<p><strong>Do they know the IDE that you’re using?</strong></p>
-<ul>
-<li>You should be using the IDE that is used regularly as part of your
-work.</li>
-<li>If they are having issues, ask yourself:
-<ul>
-<li>Do they know how to use another IDE?</li>
-<li>Are they using Hot Keys or shortcuts?</li>
-<li>If you tell them a shortcut, will they incorporate your feedback?</li>
-</ul>
-</li>
-</ul>
-<p><strong>Do they know the language?</strong></p>
-<ul>
-<li>You should be using a language that is used regularly as part of your work.</li>
-<li>If they don’t, it’s not a disqualification, as long as you can answer yes to the following:
-<ul>
-<li>Do they know another similar language?</li>
-<li>Do they understand Object Oriented languages?</li>
-<li>Can they learn this language?</li>
-</ul>
-</li>
-</ul>
-<p><strong>Do they know about tests?</strong></p>
-<ul>
-<li>Did the candidate run them? (<em>amazing how many times they don’t</em>)</li>
-<li>Did they run them before making changes to the code?</li>
-<li>Did they run them all, or focus on a single test?</li>
-<li>What were they focusing on in the tests?
-<ul>
-<li>Unit testing, Functional testing, Code Coverage numbers?</li>
-</ul>
-</li>
-</ul>
-<p><strong>How long did it take to get a passing test?</strong></p>
-<ul>
-<li>Did the candidate write any code? (<em>again, amazing how many don’t get to it</em>)</li>
-</ul>
-<p><strong>Did the candidate refactor any of the code?</strong></p>
-<ul>
-<li>Were they positive refactors?</li>
-<li>Did they refactor the code, or the tests, or both?</li>
-<li>Did they make sure the tests passed before and after refactoring?</li>
-</ul>
-<p><strong>Closing notes</strong><br>
-Several versions of this challenge are available from <a href="%7B%7Bsite.myturnyet.github.url%7D%7D">my Github repository</a>.</p>
-<p>These examples are based on the code originally written by <a href="https://github.com/isidore">Llewellyn Falco</a>.</p>
-]]></content>
-        </item>
-        
-    </channel>
+    </item>
+  </channel>
 </rss>

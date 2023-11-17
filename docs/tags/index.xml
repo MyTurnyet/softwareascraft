@@ -2,88 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Software As Craft</title>
-    <link>https://softwareascraft.com/tags/</link>
+    <link>localhost/tags/</link>
     <description>Recent content in Tags on Software As Craft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>paige.watson@softwareascraft.com (Paige)</managingEditor>
+    <webMaster>paige.watson@softwareascraft.com (Paige)</webMaster>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate>
-    <atom:link href="https://softwareascraft.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hiring</title>
-      <link>https://softwareascraft.com/tags/hiring/</link>
-      <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/hiring/</guid>
+      <link>localhost/tags/hiring/</link>
+      <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/hiring/</guid>
       <description></description>
     </item>
     <item>
       <title>Interviewing</title>
-      <link>https://softwareascraft.com/tags/interviewing/</link>
-      <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/interviewing/</guid>
+      <link>localhost/tags/interviewing/</link>
+      <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/interviewing/</guid>
       <description></description>
     </item>
     <item>
       <title>Software as Craft</title>
-      <link>https://softwareascraft.com/tags/software-as-craft/</link>
-      <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/software-as-craft/</guid>
+      <link>localhost/tags/software-as-craft/</link>
+      <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/software-as-craft/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>https://softwareascraft.com/tags/culture/</link>
-      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/culture/</guid>
+      <link>localhost/tags/culture/</link>
+      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning</title>
-      <link>https://softwareascraft.com/tags/learning/</link>
-      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/learning/</guid>
+      <link>localhost/tags/learning/</link>
+      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Teams</title>
-      <link>https://softwareascraft.com/tags/teams/</link>
-      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/teams/</guid>
+      <link>localhost/tags/teams/</link>
+      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/teams/</guid>
       <description></description>
     </item>
     <item>
       <title>Quality</title>
-      <link>https://softwareascraft.com/tags/quality/</link>
-      <pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/quality/</guid>
+      <link>localhost/tags/quality/</link>
+      <pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/quality/</guid>
       <description></description>
     </item>
     <item>
       <title>Collaboration</title>
-      <link>https://softwareascraft.com/tags/collaboration/</link>
-      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/collaboration/</guid>
+      <link>localhost/tags/collaboration/</link>
+      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/collaboration/</guid>
       <description></description>
     </item>
     <item>
       <title>Mobbing</title>
-      <link>https://softwareascraft.com/tags/mobbing/</link>
-      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/mobbing/</guid>
+      <link>localhost/tags/mobbing/</link>
+      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/mobbing/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>https://softwareascraft.com/tags/tools/</link>
-      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/tools/</guid>
+      <link>localhost/tags/tools/</link>
+      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Interviews</title>
-      <link>https://softwareascraft.com/tags/interviews/</link>
-      <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate>
-      <guid>https://softwareascraft.com/tags/interviews/</guid>
+      <link>localhost/tags/interviews/</link>
+      <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate><author>paige.watson@softwareascraft.com (Paige)</author>
+      <guid>localhost/tags/interviews/</guid>
       <description></description>
     </item>
   </channel>
