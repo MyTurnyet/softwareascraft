@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hiring on Software As Craft</title>
-    <link>https://myturnyet.github.io/softwareascraft/tags/hiring/</link>
+    <link>https://softwareascraft.com/tags/hiring/</link>
     <description>Recent content in Hiring on Software As Craft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate>
-    <atom:link href="https://myturnyet.github.io/softwareascraft/tags/hiring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://softwareascraft.com/tags/hiring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on Interviewing - Part II</title>
-      <link>https://myturnyet.github.io/softwareascraft/posts/thoughtsoninterviewing-2/</link>
+      <link>https://softwareascraft.com/posts/thoughtsoninterviewing-2/</link>
       <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate>
-      <guid>https://myturnyet.github.io/softwareascraft/posts/thoughtsoninterviewing-2/</guid>
+      <guid>https://softwareascraft.com/posts/thoughtsoninterviewing-2/</guid>
       <description>In the [first part][thoughts-on-interviewing-1] of this series, I talked a little about how our industry interviews currently and some of the issues I have with the current process. In this post, I want to talk a little more about what we should be doing in interviews, and who we&amp;rsquo;re actually trying to hire.
 First, let&amp;rsquo;s talk about what we&amp;rsquo;re trying to get out of our hiring process.
 If the answer is: &amp;ldquo;A software developer&amp;rdquo; I would pose that we need to think a little deeper about what we really want out of a candidate.</description>
     </item>
     <item>
       <title>Thoughts on Interviewing - Part I</title>
-      <link>https://myturnyet.github.io/softwareascraft/posts/thoughtsoninterviewing-1/</link>
+      <link>https://softwareascraft.com/posts/thoughtsoninterviewing-1/</link>
       <pubDate>Wed, 12 Apr 2023 07:30:35 -0900</pubDate>
-      <guid>https://myturnyet.github.io/softwareascraft/posts/thoughtsoninterviewing-1/</guid>
+      <guid>https://softwareascraft.com/posts/thoughtsoninterviewing-1/</guid>
       <description>As a developer for over 30 years, I’ve come to realize several problems with the way we interview in the Software Development industry. Whether it’s because we don’t know how to correctly interview for a development position, or we’re not allowed to interview in the way that’s needed, it needs to change.
 As a Senior-level Code Crafter, I’m finding it frustrating to interview with (and do interviews for) companies that have processes counter-intuitive to their desired outcome of hiring a great developer.</description>
     </item>
     <item>
       <title>The Six-Minute Interview</title>
-      <link>https://myturnyet.github.io/softwareascraft/posts/sixminuteinterview/</link>
+      <link>https://softwareascraft.com/posts/sixminuteinterview/</link>
       <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate>
-      <guid>https://myturnyet.github.io/softwareascraft/posts/sixminuteinterview/</guid>
+      <guid>https://softwareascraft.com/posts/sixminuteinterview/</guid>
       <description>First, the &amp;ldquo;Why&amp;rdquo; This interview challenge is based on the six minute interview created by Llewellyn Falco.
 The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.
 After 6 minutes, you should be able to answer several questions, with the most important being:

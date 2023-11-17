@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Software As Craft</title>
-    <link>https://myturnyet.github.io/softwareascraft/tags/teams/</link>
+    <link>https://softwareascraft.com/tags/teams/</link>
     <description>Recent content in Teams on Software As Craft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 09 Apr 2023 15:00:26 -0900</lastBuildDate>
-    <atom:link href="https://myturnyet.github.io/softwareascraft/tags/teams/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://softwareascraft.com/tags/teams/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Culture of Learning</title>
-      <link>https://myturnyet.github.io/softwareascraft/posts/creatingacultureoflearning/</link>
+      <link>https://softwareascraft.com/posts/creatingacultureoflearning/</link>
       <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
-      <guid>https://myturnyet.github.io/softwareascraft/posts/creatingacultureoflearning/</guid>
+      <guid>https://softwareascraft.com/posts/creatingacultureoflearning/</guid>
       <description>Stop me if you’ve heard this before:
 CFO says: &amp;ldquo;What if we pay to train our employees, and they leave the company?&amp;rdquo;
 CTO says: ….
@@ -22,9 +22,9 @@ This is how I start out my talk on creating a learning culture.</description>
     </item>
     <item>
       <title>The Six-Minute Interview</title>
-      <link>https://myturnyet.github.io/softwareascraft/posts/sixminuteinterview/</link>
+      <link>https://softwareascraft.com/posts/sixminuteinterview/</link>
       <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate>
-      <guid>https://myturnyet.github.io/softwareascraft/posts/sixminuteinterview/</guid>
+      <guid>https://softwareascraft.com/posts/sixminuteinterview/</guid>
       <description>First, the &amp;ldquo;Why&amp;rdquo; This interview challenge is based on the six minute interview created by Llewellyn Falco.
 The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.
 After 6 minutes, you should be able to answer several questions, with the most important being:

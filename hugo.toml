@@ -1,3 +1,4 @@
+#baseurl = "localhost"
 baseurl = "https://softwareascraft.com/"
 title = "Software As Craft"
 languageCode = "en-us"
