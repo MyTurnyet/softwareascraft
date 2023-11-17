@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviews on Software As Craft</title>
+    <link>https://myturnyet.github.io/softwareascraft/tags/interviews/</link>
+    <description>Recent content in Interviews on Software As Craft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 21 Mar 2023 10:32:01 -0900</lastBuildDate>
+    <atom:link href="https://myturnyet.github.io/softwareascraft/tags/interviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Six-Minute Interview</title>
+      <link>https://myturnyet.github.io/softwareascraft/posts/sixminuteinterview/</link>
+      <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate>
+      <guid>https://myturnyet.github.io/softwareascraft/posts/sixminuteinterview/</guid>
+      <description>First, the &amp;ldquo;Why&amp;rdquo; This interview challenge is based on the six minute interview created by Llewellyn Falco.
+The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.
+After 6 minutes, you should be able to answer several questions, with the most important being:
+Do I want to see more from this candidate?</description>
+    </item>
+  </channel>
+</rss>

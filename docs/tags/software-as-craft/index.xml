@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software As Craft</title>
-    <link>https://myturnyet.github.io/softwareascraft/</link>
-    <description>Recent content on Software As Craft</description>
+    <title>Software as Craft on Software As Craft</title>
+    <link>https://myturnyet.github.io/softwareascraft/tags/software-as-craft/</link>
+    <description>Recent content in Software as Craft on Software As Craft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate>
-    <atom:link href="https://myturnyet.github.io/softwareascraft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://myturnyet.github.io/softwareascraft/tags/software-as-craft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on Interviewing - Part II</title>
       <link>https://myturnyet.github.io/softwareascraft/posts/thoughtsoninterviewing-2/</link>
@@ -27,17 +27,6 @@ If the answer is: &amp;ldquo;A software developer&amp;rdquo; I would pose that w
 As a Senior-level Code Crafter, I’m finding it frustrating to interview with (and do interviews for) companies that have processes counter-intuitive to their desired outcome of hiring a great developer.</description>
     </item>
     <item>
-      <title>Creating a Culture of Learning</title>
-      <link>https://myturnyet.github.io/softwareascraft/posts/creatingacultureoflearning/</link>
-      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
-      <guid>https://myturnyet.github.io/softwareascraft/posts/creatingacultureoflearning/</guid>
-      <description>Stop me if you’ve heard this before:
-CFO says: &amp;ldquo;What if we pay to train our employees, and they leave the company?&amp;rdquo;
-CTO says: ….
-If you are in a “management” position (or if you aren’t, imagine what your manager would say), what percentage of the work week would you like your team to be learning and growing at their job?
-This is how I start out my talk on creating a learning culture.</description>
-    </item>
-    <item>
       <title>On Software as Craft</title>
       <link>https://myturnyet.github.io/softwareascraft/posts/onsoftwareascraft/</link>
       <pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate>
@@ -51,16 +40,6 @@ Please be cognizant that I am not putting down anyone who is employed as a plumb
       <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate>
       <guid>https://myturnyet.github.io/softwareascraft/posts/collaborativeprogrammingremotely/</guid>
       <description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work. Over time, the one list of &amp;ldquo;do&amp;rsquo;s&amp;rdquo; and &amp;ldquo;don&amp;rsquo;ts&amp;rdquo; that has made it&amp;rsquo;s way to the forefront of discussions is the list at remotemobprogramming.org, compiled by Simon Harrer, Jochen Christ, and Martin Huber.</description>
-    </item>
-    <item>
-      <title>The Six-Minute Interview</title>
-      <link>https://myturnyet.github.io/softwareascraft/posts/sixminuteinterview/</link>
-      <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate>
-      <guid>https://myturnyet.github.io/softwareascraft/posts/sixminuteinterview/</guid>
-      <description>First, the &amp;ldquo;Why&amp;rdquo; This interview challenge is based on the six minute interview created by Llewellyn Falco.
-The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.
-After 6 minutes, you should be able to answer several questions, with the most important being:
-Do I want to see more from this candidate?</description>
     </item>
   </channel>
 </rss>
