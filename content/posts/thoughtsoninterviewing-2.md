@@ -11,7 +11,7 @@ tags:
 ---
 
 
-In the [first part][thoughts-on-interviewing-1] of this series, I talked a little about how our industry interviews
+In the [first part][1] of this series, I talked a little about how our industry interviews
 currently and some of the issues I have with the current process. In this post, I want to talk a little more about what
 we should be doing in interviews, and who we're actually trying to hire.
 
@@ -44,8 +44,8 @@ Still, a person applying for a job as a software developer needs to know how to 
 
 ## The Six Minute Interview
 
-[Llewellyn Falco][Llewellyn-Falco-GitHub] developed a challenge for gaining knowledge of a candidates ability in a
-fairly quick way. He calls it '[The Six Minute Interview][six-minute-interview]'. I have written several versions of this challenge and added
+[Llewellyn Falco][2] developed a challenge for gaining knowledge of a candidates ability in a
+fairly quick way. He calls it '[The Six Minute Interview][3]'. I have written several versions of this challenge and added
 them to my personal GitHub repository.
 
 This challenge works best online, and usually can be set-up as a fifteen minute screen. The main idea is that after six
@@ -170,8 +170,7 @@ the process and I would love to hear your feedback. Our industry is still new en
 changing, and because of this, we need to continually update and refine our hiring processes, not to find the person
 that fits the position, but the person that better the team and the company.
 
-[Llewellyn-Falco-GitHub]:https://github.com/isidore
 
-[thoughts-on-interviewing-1]:{% post_url 2023-04-12-thoughts-on-interviewing-part-1 %}
-
-[six-minute-interview]:{% post_url 2023-03-21-six-minute-interview %}
+[1]:{{< relref thoughtsoninterviewing-1.md>}}
+[2]:{{https://github.com/isidore}}
+[3]:{{< relref sixminuteinterview.md >}}
