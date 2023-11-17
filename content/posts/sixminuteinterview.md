@@ -92,8 +92,9 @@ Here are a list of things to look for when administering this during an intervie
 - Did they make sure the tests passed before and after refactoring?
 
 **Closing notes**  
-Several versions of this challenge are available from [my Github repository]({{site.myturnyet.github.url}}).
+Several versions of this challenge are available from [my Github repository][My-GitHub].
 
 These examples are based on the code originally written by [Llewellyn Falco][Llewellyn-Falco-GitHub].
 
 [Llewellyn-Falco-GitHub]:https://github.com/isidore
+[My-GitHub]:https://github.com/MyTurnyet
