@@ -1,5 +1,5 @@
-baseurl = "localhost"
-title = "My Blog"
+baseurl = "https://myturnyet.github.io/softwareascraft"
+title = "Software As Craft"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 paginate = 10
@@ -24,7 +24,7 @@ enableSharingButtons = true
 enableGlobalLanguageMenu = true
 
 # Metadata mostly used in document's head
-description = "My new homepage or blog"
+description = "Thoughts how we build software, and the effects on our industry."
 keywords = "homepage, blog"
 images = [""]
 
