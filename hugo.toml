@@ -5,8 +5,12 @@ languageCode = "en-us"
 theme = "beautifulhugo"
 paginate = 10
 publishDir = "docs"
+keywords = ""
+subtitle = "Thoughts how we build software, and the effects on our industry."
+readOtherPosts = "Read other posts"
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-[params]
+[Params]
 author.name = "Paige"
 author.website = "https://www.softwareascraft.com"
 author.email = "paige.watson@softwareascraft.com"
@@ -15,6 +19,8 @@ author.twitter = "PaigeisXP"
 author.linkedin = "paige-is-xp"
 #youtube = "user/username" # or channel/channelname
 #mastodon = "url"
+logo.path = "img/paige.jpg"
+logo.alt = "Software As Craft"
 
 dateform = "Jan 2, 2006"
 dateformShort = "Jan 2"
@@ -22,7 +28,6 @@ dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
 
 mainSections = ["post","posts"]
-logo = "img/avatar-icon.png" # Expecting square dimensions
 favicon = "img/favicon.ico"
 dateFormat = "January 2, 2006"
 commit = false
@@ -50,7 +55,7 @@ enableGlobalLanguageMenu = true
 # Metadata mostly used in document's head
 description = "Thoughts how we build software, and the effects on our industry."
 keywords = "homepage, blog"
-images = [""]
+images = ["img"]
 
 [taxonomies]
 category = "blog"
@@ -58,22 +63,16 @@ tag = "tags"
 series = "series"
 
 [languages]
-[languages.en]
-title = "Software As Craft"
-keywords = ""
-copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-readOtherPosts = "Read other posts"
-
+#[languages.en]
 [languages.en.params]
-subtitle = "Thoughts how we build software, and the effects on our industry."
 
 [languages.en.params.logo]
-logoText = "Software As Craft"
-logoHomeLink = "/"
+#logoText = "Software As Craft"
+#logoHomeLink = "/"
 # or
 #
-# path = "/img/your-example-logo.svg"
-# alt = "Your example logo alt text"
+
+#alt = "Software As Craft"
 
 # And you can even create generic menu
 [[menu.main]]
