@@ -1,5 +1,5 @@
 #baseurl = "localhost"
-baseurl = "https://softwareascraft.com/"
+baseurl = "https://www.softwareascraft.com/"
 title = "Software As Craft"
 languageCode = "en-us"
 theme = "beautifulhugo"
