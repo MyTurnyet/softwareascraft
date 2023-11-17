@@ -1,19 +1,42 @@
-#baseurl = "localhost"
-baseurl = "https://softwareascraft.com/"
+baseurl = "localhost"
+#baseurl = "https://softwareascraft.com/"
 title = "Software As Craft"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+theme = "beautifulhugo"
 paginate = 10
 publishDir = "docs"
 
 [params]
+author.name = "Paige"
+author.website = "https://www.softwareascraft.com"
+author.email = "paige.watson@softwareascraft.com"
+author.github = "MyTurnyet"
+author.twitter = "PaigeisXP"
+author.linkedin = "paige-is-xp"
+#youtube = "user/username" # or channel/channelname
+#mastodon = "url"
+
 dateform = "Jan 2, 2006"
 dateformShort = "Jan 2"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
 
+mainSections = ["post","posts"]
+logo = "img/avatar-icon.png" # Expecting square dimensions
+favicon = "img/favicon.ico"
+dateFormat = "January 2, 2006"
+commit = false
+rss = true
+comments = true
+readingTime = true
+wordCount = true
+useHLJS = true
+socialShare = true
+delayDisqus = true
+showRelatedPosts = true
+
 # Subtitle for home
-homeSubtitle = "Thoughts how we build software, and the effects on our industry."
+subtitle = "Thoughts how we build software, and the effects on our industry."
 
 # Set disableReadOtherPosts to true in order to hide the links to other posts.
 disableReadOtherPosts = false
@@ -42,7 +65,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 readOtherPosts = "Read other posts"
 
 [languages.en.params]
-subtitle = "A simple theme for Hugo"
+subtitle = "Thoughts how we build software, and the effects on our industry."
 
 [languages.en.params.logo]
 logoText = "Software As Craft"
@@ -57,3 +80,4 @@ logoHomeLink = "/"
 identifier = "blog"
 name = "Blog"
 url = "/posts"
+
